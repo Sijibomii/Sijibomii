@@ -2,7 +2,7 @@
 
 </br>
 
-- 🌱 I’m a fullstack engineer and technical writer
+- 🌱 I’m a fullstack engineer and technical writer who is Passionate about learning, building and solving problems.
 
 <br />
 
